@@ -1,0 +1,14 @@
+C:\Users\Kwabena Boateng\RiderProjects\Shape 2\Shape 2\bin\Debug\net8.0\Shape 2.exe
+C:\Users\Kwabena Boateng\RiderProjects\Shape 2\Shape 2\bin\Debug\net8.0\Shape 2.deps.json
+C:\Users\Kwabena Boateng\RiderProjects\Shape 2\Shape 2\bin\Debug\net8.0\Shape 2.runtimeconfig.json
+C:\Users\Kwabena Boateng\RiderProjects\Shape 2\Shape 2\bin\Debug\net8.0\Shape 2.dll
+C:\Users\Kwabena Boateng\RiderProjects\Shape 2\Shape 2\bin\Debug\net8.0\Shape 2.pdb
+C:\Users\Kwabena Boateng\RiderProjects\Shape 2\Shape 2\obj\Debug\net8.0\Shape 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kwabena Boateng\RiderProjects\Shape 2\Shape 2\obj\Debug\net8.0\Shape 2.AssemblyInfoInputs.cache
+C:\Users\Kwabena Boateng\RiderProjects\Shape 2\Shape 2\obj\Debug\net8.0\Shape 2.AssemblyInfo.cs
+C:\Users\Kwabena Boateng\RiderProjects\Shape 2\Shape 2\obj\Debug\net8.0\Shape 2.csproj.CoreCompileInputs.cache
+C:\Users\Kwabena Boateng\RiderProjects\Shape 2\Shape 2\obj\Debug\net8.0\Shape 2.dll
+C:\Users\Kwabena Boateng\RiderProjects\Shape 2\Shape 2\obj\Debug\net8.0\refint\Shape 2.dll
+C:\Users\Kwabena Boateng\RiderProjects\Shape 2\Shape 2\obj\Debug\net8.0\Shape 2.pdb
+C:\Users\Kwabena Boateng\RiderProjects\Shape 2\Shape 2\obj\Debug\net8.0\Shape 2.genruntimeconfig.cache
+C:\Users\Kwabena Boateng\RiderProjects\Shape 2\Shape 2\obj\Debug\net8.0\ref\Shape 2.dll
